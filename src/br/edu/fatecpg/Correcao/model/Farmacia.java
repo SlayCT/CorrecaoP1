@@ -1,4 +1,4 @@
-package br.edu.fatecpg.Revisao.model;
+package br.edu.fatecpg.Correcao.model;
 public class Farmacia {
 
     String[] nomesMedicamentos;

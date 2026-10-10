@@ -1,5 +1,5 @@
-package br.edu.fatecpg.Revisao.view;
-import br.edu.fatecpg.Revisao.model.Farmacia;
+package br.edu.fatecpg.Correcao.view;
+import br.edu.fatecpg.Correcao.model.Farmacia;
 
 public class MainFarmacia {
 

@@ -1,4 +1,4 @@
-package br.edu.fatecpg.RevisaoP1;
+package br.edu.fatecpg.Correcao;
 
 public class MainCarro {
 
